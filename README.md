@@ -34,7 +34,7 @@ El primero cambio se corresponde al ``server_name _;``, que debemos cambiar el `
 
 ![edit2 1](https://user-images.githubusercontent.com/91699247/166123943-be9ccb92-92cd-4712-8814-04704d389951.png)![edit2 2](https://user-images.githubusercontent.com/91699247/166123945-1a07df68-18e3-4799-9792-ec7d24d27c95.png)
 
-Aparte de la anterior configuración mencionada, hay que modificar el servidor por defecto, eliminarlo ya que solo un sitio puede tenerlo.
+Aparte de la anterior configuración mencionada, hay que modificar el servidor por defecto, eliminarlo ya que solo puede existir uno.
 
 ![edit_serv1](https://user-images.githubusercontent.com/91699247/166123998-406a1ee7-8e9a-4b8e-b574-310bef1ee01f.png)![edit_serv1 2](https://user-images.githubusercontent.com/91699247/166123999-28e44d4d-f01f-44bf-84f9-831610342e64.png)
 
