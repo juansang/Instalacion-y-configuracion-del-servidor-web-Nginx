@@ -52,8 +52,8 @@ Ahora podemos comprobar si con las direcciones de nuestros sitios podemos visual
 Para que esto se cumpla, debemos modificar el archivo *hosts*, que se encuentra en el directorio ``/etc`` .
 
 Esta modificación la podemos llevar a cabo mediante un `` sudo nano hosts`` y queda de esta manera :
+![Captura desde 2022-05-03 23-21-18](https://user-images.githubusercontent.com/91699247/166568805-1c9a982b-0104-4d32-a172-e001b7ea1bad.png)
 
-![host1](https://user-images.githubusercontent.com/91699247/166125177-2a97a8c2-85b8-40f8-95f5-f0f387ae9108.png)
 
 
 Escribimos la dirección de nuestro sitio en el navegador y vemos que sale el error de que no encuentra nuestra página 
@@ -66,11 +66,9 @@ Esto lo podemos solucionar creando los directorios con los nombres que especific
 ![mkdir1](https://user-images.githubusercontent.com/91699247/166125217-fb0b945f-de0e-4bc5-8053-da05f2ee119e.png)
 
 
-Dentro de estos directorios, editamos el ``index.html``, donde insertamos el código de nuestros proyectos.
+Dentro de estos directorios, se introducen los archivos html correspondientes a los proyectos seleccionados.
+![Captura desde 2022-05-03 23-11-38](https://user-images.githubusercontent.com/91699247/166568820-172e6c2d-9958-4329-aeae-d609a4bba4f3.png)![Captura desde 2022-05-03 23-10-39](https://user-images.githubusercontent.com/91699247/166568838-08463566-3eee-45cd-834b-8d8161ee5f10.png)
 
-![index1](https://user-images.githubusercontent.com/91699247/166125228-b0d7ac58-b0b2-452a-986e-b84263d0dcbf.png)
-![index2](https://user-images.githubusercontent.com/91699247/166125233-315a843d-87af-4192-b447-908ec1326628.png)
-![index3](https://user-images.githubusercontent.com/91699247/166125241-bbf637f4-75a9-4544-9f85-dc1bbb51ff66.png)
 
 
 Ya podemos desplegar los proyectos, cada uno con su correspondiente subdominio 
