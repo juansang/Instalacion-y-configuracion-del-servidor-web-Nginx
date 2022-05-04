@@ -66,8 +66,10 @@ Esto lo podemos solucionar creando los directorios con los nombres que especific
 ![mkdir1](https://user-images.githubusercontent.com/91699247/166125217-fb0b945f-de0e-4bc5-8053-da05f2ee119e.png)
 
 
-Dentro de estos directorios, se introducen los archivos html correspondientes a los proyectos seleccionados.
-![Captura desde 2022-05-03 23-11-38](https://user-images.githubusercontent.com/91699247/166568820-172e6c2d-9958-4329-aeae-d609a4bba4f3.png)![Captura desde 2022-05-03 23-10-39](https://user-images.githubusercontent.com/91699247/166568838-08463566-3eee-45cd-834b-8d8161ee5f10.png)
+Dentro de estos directorios, insertamos en el correspondinete archivo html el código del proyecto elegido
+![index1](https://user-images.githubusercontent.com/91699247/166703200-4afd85c7-5813-41df-a1fd-bfbcae0c23e7.png)
+![index2](https://user-images.githubusercontent.com/91699247/166703221-55760546-a586-462b-8935-7cacda6ca696.png)
+![index3](https://user-images.githubusercontent.com/91699247/166703242-9615cf2a-6322-40d5-8618-5ea3e4478b0c.png)
 
 
 
