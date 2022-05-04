@@ -15,6 +15,7 @@ Ahora procederemos a la configuración de nginx :
 Primero hay que dirigirse al directorio del servidor nginx contenido en el directorio etc  `` cd /etc/nginx/`` . 
 
 Dentro de este se encuentra *sites-available*, donde crearemos la configuración de los sitios, que están diferenciados por los *virtual hosts*. 
+
 <img width="296" alt="sites-av1" src="https://user-images.githubusercontent.com/91699247/166122529-86eb3b75-2b95-444f-b4fe-bd32e0028c0e.png">
 
 A continuación nos dirigimos a *sites-available* , donde encontraremos un único archivo llamado *default* , que contiene la configuración por defecto de nginx. 
@@ -52,7 +53,7 @@ Ahora podemos comprobar si con las direcciones de nuestros sitios podemos visual
 Para que esto se cumpla, debemos modificar el archivo *hosts*, que se encuentra en el directorio ``/etc`` .
 
 Esta modificación la podemos llevar a cabo mediante un `` sudo nano hosts`` y queda de esta manera :
-![Captura desde 2022-05-03 23-21-18](https://user-images.githubusercontent.com/91699247/166568805-1c9a982b-0104-4d32-a172-e001b7ea1bad.png)
+![Captura desde 2022-05-04 22-58-39](https://user-images.githubusercontent.com/91699247/166825209-4ca749de-1d11-4913-b3df-312cb5ce8bfd.png)
 
 
 
